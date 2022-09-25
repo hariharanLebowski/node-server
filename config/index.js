@@ -7,7 +7,7 @@ module.exports = {
         port: 3306,
         dbname: "4dflo",
         username: "root",
-        password: "root",
+        password: "GMq7DgH5hFrSW5@12",
         server: "localhost",
         pool: {
             max: 10,

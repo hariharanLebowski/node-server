@@ -29,6 +29,13 @@ module.exports = {
             username: "",
             password: ""
         }
+    },
+    smtp:{
+        service: 'gmail',
+        auth: {
+            user: 'info.4dflo@gmail.com',
+            pass: 'mpajhlqhlwktqiji'
+        }
     }
 
 }
